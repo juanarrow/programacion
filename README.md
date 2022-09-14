@@ -5,8 +5,7 @@ Este documento es la guía de la asignatura **Programación** de 1<sup>er</sup> 
 ## Índice
 
 * [Bibliografía](#bibliografía)
-* [Ejemplos y soluciones a los ejercicios](#ejemplos-y-soluciones-a-los-ejercicios)
-<!-- * [Máquinas virtuales](#máquinas-virtuales)-->
+* [Ejemplos y soluciones a los ejercicios](#ejemplos-y-soluciones-a-los-ejercicios)<!-- * [Máquinas virtuales](#máquinas-virtuales)-->
 * [Enlaces](#enlaces)
 
 ## Bibliografía
