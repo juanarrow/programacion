@@ -68,7 +68,7 @@ Este documento es la guía de la asignatura **Programación** de 1<sup>er</sup> 
 
 [IES Campanillas (web oficial)](http://iescampanillas.com/)
 
-[Índice de contenidos para los CFGS del IES Campanillas](https://github.com/IESCampanillas/indice-dam-y-daw)
+[Índice de contenidos para los CFGS del CIPFP Nuevo](https://github.com/CPIFP-29020231/indice-general)
 
 
 :star: Si te ha gustado este repo, dale una estrellita :wink:
