@@ -1,6 +1,6 @@
 # Programación de 1º DAM
 
-Este documento es la guía de la asignatura **Programación** de 1<sup>er</sup> curso del Ciclo Formativo de Grado Superior de **DAM** (Desarrollo de Aplicaciones Multiplataforma) impartido en las instalaciones del **Parque Tecnológico de Andalucía** del centro educativo **CIPFP Nuevo** (Málaga). El profesor es **Juan Antonio García*.
+Este documento es la guía de la asignatura **Programación** de 1<sup>er</sup> curso del Ciclo Formativo de Grado Superior de **DAM** (Desarrollo de Aplicaciones Multiplataforma) impartido en las instalaciones del **Parque Tecnológico de Andalucía** del centro educativo **CIPFP Nuevo** (Málaga). El profesor es **Juan Antonio García**.
 
 ## Índice
 
