@@ -24,11 +24,13 @@ El profesor te pasará un enlace para que puedas descargar el libro gratuítamen
 El profesor te pasará un enlace para que puedas descargar el libro gratuítamente
 
 
-<a href="https://drive.google.com/file/d/1rnpG1R9N3x6Pthkk9MpVyWwWvZ8-9Vbz/view?usp=sharing">Linux Practical Manual with Exercises</a>
+<a href="linux_practical_manual_31_07_2014_en.pdf">![Linux Practical Manual with Exercises](linuxpracticalmanual200.png)</a>
 
-<a href="https://drive.google.com/file/d/1frxI9BmJOBCMOiNyom2ZFYWFEa8V7oIA/view?usp=sharing">Advanced Bash-Scripting Guide</a>
+[Linux Practical Manual with Exercises](linux_practical_manual_31_07_2014_en.pdf)
 
-<a href="://drive.google.com/file/d/1CwxJICeXzlt06PSXngHbLDE9zm7DQl5f/view?usp=sharing">Programación en Bash</a>
+[Advanced Bash-Scripting Guide - Mendel Cooper](abs-guide.pdf)
+
+[Programación en Bash](manualbash.pdf)
 
 ## Ejemplos y soluciones a los ejercicios
 
