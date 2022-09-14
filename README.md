@@ -20,6 +20,8 @@ El profesor te facilitará un enlace con un cupón de descarga
 
 <a href="linux_practical_manual_31_07_2014_en.pdf">![Linux Practical Manual with Exercises](linuxpracticalmanual200.png)</a>
 
+[Manual de PSeInt](manual_pseint.pdf)
+
 [Linux Practical Manual with Exercises](linux_practical_manual_31_07_2014_en.pdf)
 
 [Advanced Bash-Scripting Guide - Mendel Cooper](abs-guide.pdf)
