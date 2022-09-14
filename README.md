@@ -14,11 +14,13 @@ Este documento es la guía de la asignatura **Programación** de 1<sup>er</sup> 
 <a href="https://leanpub.com/aprendejava">![Aprende Java con Ejercicios](aprendejava200.jpg)</a>
 
 [Aprende Java con Ejercicios](https://leanpub.com/aprendejava/)
+
 El profesor te pasará un enlace para que puedas descargar el libro gratuítamente
 
 <a href="https://leanpub.com/gitygithub/">![Git y GitHub - Guía de Supervivencia](https://github.com/LuisJoseSanchez/dwes/blob/master/gitygithub200.jpg)</a>
 
 [Git y GitHub - Guía de Supervivencia](https://leanpub.com/gitygithub/)
+
 El profesor te pasará un enlace para que puedas descargar el libro gratuítamente
 
 
