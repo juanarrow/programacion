@@ -29,7 +29,7 @@ El profesor te facilitará un enlace con un cupón de descarga
 
 ## Ejemplos y soluciones a los ejercicios
 
-<https://github.com/LuisJoseSanchez/aprende-java-con-ejercicios>
+<https://github.com/juanarrow/aprende-java-con-ejercicios>
 
 ## Actividad "Aprende un lenguaje en un día"
 
