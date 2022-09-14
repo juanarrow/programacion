@@ -22,7 +22,7 @@ Este documento es la guía de la asignatura **Programación** de 1<sup>er</sup> 
 
 <a href="https://drive.google.com/file/d/1rnpG1R9N3x6Pthkk9MpVyWwWvZ8-9Vbz/view?usp=sharing">![Linux Practical Manual with Exercises](linuxpracticalmanual200.png)</a>
 
-<a href="https://drive.google.com/file/d/1frxI9BmJOBCMOiNyom2ZFYWFEa8V7oIA/view?usp=sharing">[Advanced Bash-Scripting Guide - Mendel Cooper]</a>
+<a href="https://drive.google.com/file/d/1frxI9BmJOBCMOiNyom2ZFYWFEa8V7oIA/view?usp=sharing">![Advanced Bash-Scripting Guide - Mendel Cooper]</a>
 
 [Programación en Bash](manualbash.pdf)
 
