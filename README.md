@@ -20,7 +20,7 @@ Este documento es la guía de la asignatura **Programación** de 1<sup>er</sup> 
 [Git y GitHub - Guía de Supervivencia](https://leanpub.com/gitygithub/)
 
 
-<a href="linux_practical_manual_31_07_2014_en.pdf">![Linux Practical Manual with Exercises](linuxpracticalmanual200.png)</a>
+<a href="[linux_practical_manual_31_07_2014_en.pdf](https://drive.google.com/file/d/1rnpG1R9N3x6Pthkk9MpVyWwWvZ8-9Vbz/view?usp=sharing)">![Linux Practical Manual with Exercises](linuxpracticalmanual200.png)</a>
 
 [Linux Practical Manual with Exercises](linux_practical_manual_31_07_2014_en.pdf)
 
