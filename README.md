@@ -20,6 +20,7 @@ El profesor te facilitará un enlace con un cupón de descarga
 
 <a href="linux_practical_manual_31_07_2014_en.pdf">![Linux Practical Manual with Exercises](linuxpracticalmanual200.png)</a>
 
+<a href="https://classroom.google.com/c/NTI4MTcwNDkzNjc3?cjc=wvjyo64">Classroom de la asignatura</a>
 [Manual de PSeInt](manual_pseint.pdf)
 
 [Linux Practical Manual with Exercises](linux_practical_manual_31_07_2014_en.pdf)
